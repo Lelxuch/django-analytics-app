@@ -11,12 +11,13 @@ Django-Analytics-App Visualizing in Charts
 
 Here you can see several advantages by visiting your the website:
 
-- Enables you to visually compare multiple sets of data.
+- Enables you to visual
+- ly compare multiple sets of data.
 - Helps you better understand and remember information.
 - A compelling chart can help you make your point more convincingly and lend credibility to your presentation.
 
 ## Instalation
-In order to create such a website, I have used Django a high-level Python web framework which promotes quick development and simple, practical design
+In order to create such a website, We have used Django a high-level Python web framework which promotes quick development and simple, practical design
 To run Django program, first install the required packages and modules . You must run the following command to install the package:
 
 bash
@@ -24,5 +25,30 @@ $ pip install Django
 $ django-admin startproject
 $ python manage.py migrate
 $ cd C:\Django 
-$ cd todo
-todo> python manage.py runserver
+
+In order to display in the browser 3 types of charts: Pie Chart, Bar Chart and Linear Chart, We have used the latest version of Chart.js from npm. It was very conveniently to get started with Chart.js. All that's required is the script included in your page along with a single <canvas> node to render the chart.
+
+npm install chart.js
+  
+## Usage
+## 1) 100 Ethereum Addresses By ETH Balance
+![image](https://user-images.githubusercontent.com/74869146/153430747-57f70619-7e11-4fc4-b500-5cb7c8c5610c.png)
+
+  
+  
+  
+## 2) Bar Chart
+![image](https://user-images.githubusercontent.com/74869146/153430778-715ab455-7b02-4564-99bd-20f2918b42df.png)
+
+  
+  
+## 3) Line Chart
+![image](https://user-images.githubusercontent.com/74869146/153430870-2ff0a48c-221c-4289-a347-a512ecddedf9.png)
+
+  
+  
+## 4) Pie Chart
+![image](https://user-images.githubusercontent.com/74869146/153430941-96561153-67b4-4229-869c-9598679c97d7.png)
+
+  
+ 
