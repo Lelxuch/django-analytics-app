@@ -3,7 +3,7 @@
 ## Task
 Django-Analytics-App Visualizing in Charts
 ## Membership
-Project's benn implemented in the group of Daurbek Abrikov, Danial Zhussupov and Sanzhar Nakyp.
+Project's been implemented in the group of Daurbek Abrikov, Danial Zhussupov and Sanzhar Nakyp.
 ## What is Django-Analytics-Application for?
 
  *Mankind invented a system to cope with the fact that we are so intrinsically lousy at manipulating numbers. It's called the graph.*.
