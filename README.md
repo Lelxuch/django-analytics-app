@@ -11,8 +11,7 @@ Django-Analytics-App Visualizing in Charts
 
 Here you can see several advantages by visiting your the website:
 
-- Enables you to visual
-- ly compare multiple sets of data.
+- Enables you to visually compare multiple sets of data.
 - Helps you better understand and remember information.
 - A compelling chart can help you make your point more convincingly and lend credibility to your presentation.
 
