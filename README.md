@@ -37,7 +37,7 @@ npm install chart.js
   
   
 ## 2) Bar Chart
-![image](https://user-images.githubusercontent.com/74869146/153430778-715ab455-7b02-4564-99bd-20f2918b42df.png)
+![image](https://user-images.githubusercontent.com/74869146/153431772-6a69bd1b-0aee-406b-ada7-8f14434af564.png)
 
   
   
