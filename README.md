@@ -1,5 +1,5 @@
 # AssignmentNumber2
-# Blockchain analytics tool using Django *django-analytics-app*
+# Blockchain analytics tool using Django 
 ## Task
 Django-Analytics-App Visualizing in Charts
 ## What is Django-Analytics-Application for?
