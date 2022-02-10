@@ -6,7 +6,7 @@ Django-Analytics-App Visualizing in Charts
 
  *Mankind invented a system to cope with the fact that we are so intrinsically lousy at manipulating numbers. It's called the graph.*.
 
-> Simply and easily, without any problems, you can quickly distribute your affairs and save your time!
+> Simply and easily, without any problems, you can quickly visualize the upcoming data and save your time!
 
 
 Here you can see several advantages by visiting your the website:
